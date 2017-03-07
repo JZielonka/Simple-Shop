@@ -4,5 +4,6 @@ target
 module_org.spring.xml
 spring.properties
 spring.xml
-org.spring.iml
+
 inteliJ.iml
+*.iml
